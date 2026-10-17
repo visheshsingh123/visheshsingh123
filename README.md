@@ -1,4 +1,39 @@
-## Hi there 👋
+
+<h1 align="center">Hey, I'm Vishesh Singh 👋</h1>
+
+<h3 align="center">💻 Web App Developer | 🎨 UI/UX Enthusiast</h3>
+
+<p align="center">
+  Building web applications that combine intuitive design with useful technology.
+</p>
+
+---
+
+### 🚀 About Me
+
+- 💻 I build web applications and Progressive Web Apps (PWAs).
+- 🤖 I enjoy experimenting with AI integrations.
+- 🎨 Interested in UI/UX design and creating intuitive user experiences.
+- 🌱 Currently exploring Python and backend development.
+- 🛠️ I enjoy turning ideas into functional digital products.
+
+### 🧰 Tech Stack
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Backend & Programming**
+- Python
+- PHP
+- SQL
+
+**Tools & Platforms**
+- Git & GitHub
+- WordPress
+- Figma
+- Vercel
 
 <!--
 **visheshsingh123/visheshsingh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
