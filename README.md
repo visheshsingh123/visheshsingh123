@@ -1,13 +1,5 @@
-
-<h1 align="center">Hey, I'm Vishesh Singh 👋</h1>
-
-<h3 align="center">💻 Web App Developer | 🎨 UI/UX Enthusiast</h3>
-
-<p align="center">
-  Building web applications that combine intuitive design with useful technology.
-</p>
-
----
+##Hi there 👋
+I am Vishesh Singh
 
 ### 🚀 About Me
 
