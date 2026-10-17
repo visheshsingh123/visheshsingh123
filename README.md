@@ -9,24 +9,6 @@
 - 🌱 Currently exploring Python and backend development.
 - 🛠️ I enjoy turning ideas into functional digital products.
 
-### 🧰 Tech Stack
-
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-
-**Backend & Programming**
-- Python
-- PHP
-- SQL
-
-**Tools & Platforms**
-- Git & GitHub
-- WordPress
-- Figma
-- Vercel
-
 <!--
 **visheshsingh123/visheshsingh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
